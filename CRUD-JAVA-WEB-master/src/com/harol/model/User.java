@@ -1,4 +1,4 @@
-package com.daniel.model;
+package com.harol.model;
 import java.util.Date;
 
 public class User {
